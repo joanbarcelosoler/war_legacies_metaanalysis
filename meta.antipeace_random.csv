@@ -1,0 +1,10 @@
+"authoryear","coef","se","n","country","year","did_design","uesd_design","iv_design","rd_design","random_design","exptype","exptype2","ExposureLagMean","UnitAnalysis","ConflictStudy","SensitivityAnalysis","ControlSelectionBias","ControlMigrationBias","ControlSurvivalBias","UCDPConflictCleavage","yi","vi"
+"annanetal2011",-0.0730319398814086,0.0321206511550274,1244,"uganda","2007","N","N","N","N","Y","N","s",11,"Individual","Lord’s Resistance Army (LRA) insurgency",1,1,"1","0","2",-0.0730319398814086,0.000795946194278819
+"getmanskyweiss2023b",-0.0371369249797192,0.0296114993047066,1139,"israel","1986","N","N","N","Y","N","N","o",13,"Individual","Israel-Palestine conflict",1,1,"1","0","1",-0.0371369249797192,0.00087631247773649
+"getmanskyweiss2023b",0.00944351188298531,0.0212950823010752,2769,"israel","1996","N","N","N","Y","N","N","o",23,"Individual","Israel-Palestine conflict",1,1,"1","0","1",0.00944351188298531,0.000361207242817807
+"getmanskyweiss2023b",-0.0340213715574572,0.0317803334668297,1269,"israel","2006","N","N","N","Y","N","N","o",33,"Individual","Israel-Palestine conflict",1,1,"1","0","1",-0.0340213715574572,0.000786818952881561
+"getmanskyweiss2023b",-0.0305297972711846,0.035092399340786,1171,"israel","2015","N","N","N","Y","N","N","o",42,"Individual","Israel-Palestine conflict",1,1,"1","0","1",-0.0305297972711846,0.000853108317699906
+"grossmanetal2015",0.100398344123559,0.0617353644863481,2334,"israel","2013","N","N","Y","N","N","N","o",10.5,"Individual","Israel-Palestine conflict",1,1,"0","0","1",0.100398344123559,0.000420035125553785
+"kreimanmasullo2020",-0.0139996562895701,0.0277589544584196,954,"colombia","2016","N","N","Y","N","N","N","o",17,"Municipality","Colombia conflict",1,1,"1","1","2",-0.0139996562895701,0.00104890667120648
+"mironovawhitt2021b",-0.144701734819515,0.138956858696205,400,"ukraine","2015","Y","N","N","N","N","N","s",0.5,"Individual","Russo-Ukrainian War",1,1,"1","0","1",-0.144701734819515,0.00240240912410499
+"popovic2022",-0.0548920029031878,0.0659534034163257,467,"serbia","2000","Y","N","N","N","N","N","o",1,"Municipailty","Yugoslavian Wars",1,1,"1","0","1",-0.0548920029031878,0.00213301033261566

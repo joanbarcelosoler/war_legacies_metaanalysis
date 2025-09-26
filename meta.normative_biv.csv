@@ -1,0 +1,11 @@
+"authoryear","coef","se","n","country","year","did_design","uesd_design","iv_design","rd_design","random_design","exptype","exptype2","ExposureLagMean","UnitAnalysis","ConflictStudy","SensitivityAnalysis","ControlSelectionBias","ControlMigrationBias","ControlSurvivalBias","UCDPConflictCleavage","yi","vi"
+"cassaretal2013",-0.0109427729361036,0.0504950220948918,419,"tajikistan","2010","N","N","N","N","N","N","s",15.5,"Individual","Tajikistan Civil War",1,1,"1","0","2",-0.0109427729361036,0.00239177159277424
+"elbialyetal2022a",-0.100068862368283,0.0637081542288284,144,"jordan","2018","N","N","N","N","N","N","s",4,"Individual","Syrian Civil War",1,1,"1","1","2",-0.100068862368283,0.0068536553937256
+"elbialyetal2022b",-0.0129789717072026,0.0223595759730056,122,"germany","2018","N","N","N","N","N","N","s",4,"Individual","Syrian Civil War",1,1,"1","1","2",-0.0129789717072026,0.00826167868564875
+"gneezyfessler2012",0.0765419781890479,0.135707068776071,50,"israel","2007","N","N","N","N","N","N","s",1,"Individual","Israel-Hezbollah War",1,1,"0","0","1",0.0765419781890479,0.0201697341880782
+"halletal2021",-0.190275210439805,0.0252104222761984,1540,"turkey","2017","N","N","N","N","N","N","s",3,"Individual","Syrian Civil War",1,1,"1","0","2",-0.190275210439805,0.000603574701545877
+"hallkahn2020",-0.05958550241909,0.0106251291815517,2479,"turkey","2016","N","N","N","N","N","N","s",2.5,"Individual","Syrian Civil War",1,1,"1","0","2",-0.05958550241909,0.000400690775371677
+"henrichetal2019b",-0.0184141905088247,0.0493370527123387,418,"tajikistan","2011","N","N","N","N","N","N","s",16.5,"Individual","Tajikistan Civil War",1,1,"1","0","2",-0.0184141905088247,0.0023964555159537
+"mironovawhitt2018",-0.28653876511733,0.104858371093483,213,"kosovo","2011","N","N","N","N","N","N","s",12.5,"Individual","Yugoslavian Wars",1,1,"1","0","",-0.28653876511733,0.00397420856209828
+"wernerlambsdorff2020",0.00807502789935007,0.0408328874322902,248,"indonesia","2013","N","N","N","N","N","N","s",12.5,"Individual","Maluku conflict",1,1,"1","1","1",0.00807502789935007,0.0040480550287477
+"zeitzoff2014",0.121907504837061,0.101171656220885,98,"israel","2010","N","N","N","N","N","N","s",5,"Individual","Israel-Palestine conflict",1,1,"1","1","1",0.121907504837061,0.0100051338445342

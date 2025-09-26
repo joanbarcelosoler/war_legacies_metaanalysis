@@ -1,0 +1,8 @@
+"authoryear","coef","se","n","country","year","did_design","uesd_design","iv_design","rd_design","random_design","exptype","exptype2","ExposureLagMean","UnitAnalysis","ConflictStudy","SensitivityAnalysis","ControlSelectionBias","ControlMigrationBias","ControlSurvivalBias","UCDPConflictCleavage","yi","vi"
+"braithwaiteetal2019",-0.217863587135276,0.0568185748469526,590,"lebanon","2017","N","Y","N","N","N","N","o",6.5,"Inidividual","Syrian Civil War",1,1,"1","0","2",-0.217863587135276,0.00154044787369317
+"braithwaiteetal2019",0.0760521564236079,0.023154754329768,2285,"lebanon","2017","N","Y","N","N","N","N","s",6.5,"Inidividual","Syrian Civil War",1,1,"1","0","2",0.0760521564236079,0.00043277828058609
+"koos2018",0.109505603298542,0.0228591462636124,5475,"sierraleone","2017","N","N","Y","N","N","N","s",20.5,"Individual","Sierra Leone Civil War",1,1,"1","0","2",0.109505603298542,0.000178326788676795
+"nairsambanis2019",-0.0461530419642381,0.0314085586010779,977,"india","2015","N","N","N","N","Y","N","s",8,"Individual","Kashmir Conflict",1,1,"1","0","1",-0.0461530419642381,0.00102022984710542
+"nairsambanis2019",-0.0368556262741152,0.0324439730198675,977,"india","2015","N","N","N","N","Y","Y","s",8,"Individual","Kashmir Conflict",1,1,"1","0","1",-0.0368556262741152,0.00102180857654078
+"osborneetal2018",0.0624979768080453,0.0610476747670535,275,"uganda","2012","N","N","N","N","Y","N","o",15.5,"Individual","Lord’s Resistance Army (LRA) insurgency",1,1,"0","1","2",0.0624979768080453,0.00362117979052258
+"osborneetal2018",-0.0357007847123601,0.0594533142786229,275,"uganda","2012","N","N","N","N","Y","N","o",15.5,"Individual","Lord’s Resistance Army (LRA) insurgency",1,1,"0","1","2",-0.0357007847123601,0.00364033770952344

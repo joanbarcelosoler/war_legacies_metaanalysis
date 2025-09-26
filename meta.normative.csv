@@ -1,0 +1,11 @@
+"authoryear","coef","se","n","country","year","did_design","uesd_design","iv_design","rd_design","random_design","exptype","exptype2","ExposureLagMean","UnitAnalysis","ConflictStudy","SensitivityAnalysis","ControlSelectionBias","ControlMigrationBias","ControlSurvivalBias","UCDPConflictCleavage","yi","vi"
+"cassaretal2013",-0.0283212471081802,0.059654532673057,404,"tajikistan","2010","N","N","N","N","N","N","s",15.5,"Individual","Tajikistan Civil War",1,1,"1","0","2",-0.0283212471081802,0.00247741056396456
+"elbialyetal2022a",-0.0868757133674448,0.0708318887591206,137,"jordan","2018","N","N","N","N","N","N","s",4,"Individual","Syrian Civil War",1,1,"1","1","2",-0.0868757133674448,0.00724236899958208
+"elbialyetal2022b",-0.0136954074235926,0.0280252252738279,119,"germany","2018","N","N","N","N","N","N","s",4,"Individual","Syrian Civil War",1,1,"1","1","2",-0.0136954074235926,0.00847139751535023
+"gneezyfessler2012",0.0765419781890479,0.135707068776071,50,"israel","2007","N","N","N","N","N","N","o",1,"Individual","Israel-Hezbollah War",1,1,"0","0","1",0.0765419781890479,0.0201697341880782
+"halletal2021",-0.199182097253222,0.0231792593403551,1524,"turkey","2017","N","N","N","N","N","N","s",3,"Individual","Syrian Civil War",1,1,"1","0","2",-0.199182097253222,0.000605533139523325
+"hallkahn2020",-0.0370765023881375,0.0123598191584359,2399,"turkey","2016","N","N","N","N","N","N","s",2.5,"Individual","Syrian Civil War",1,1,"1","0","2",-0.0370765023881375,0.000415868455233848
+"henrichetal2019b",0.0251873733149425,0.0575322842608878,405,"tajikistan","2011","N","N","N","N","N","N","s",16.5,"Individual","Tajikistan Civil War",1,1,"1","0","2",0.0251873733149425,0.00247210790821568
+"mironovawhitt2018",-0.253473593499671,0.102043167802191,211,"kosovo","2011","N","N","N","N","N","N","s",12.5,"Individual","Yugoslavian Wars",1,1,"1","0","",-0.253473593499671,0.00416966757686824
+"wernerlambsdorff2020",-0.272964636090584,0.108687732322827,220,"indonesia","2013","N","N","N","N","N","N","s",12.5,"Individual","Maluku conflict",1,1,"1","1","1",-0.272964636090584,0.0039111064345784
+"zeitzoff2014",0.0678263191823791,0.0994608832985676,98,"israel","2010","N","N","N","N","N","N","o",5,"Individual","Israel-Palestine conflict",1,1,"1","1","1",0.0678263191823791,0.0102146427280473

@@ -1,0 +1,8 @@
+"authoryear","coef","se","n","country","year","did_design","uesd_design","iv_design","rd_design","random_design","exptype","exptype2","ExposureLagMean","UnitAnalysis","ConflictStudy","SensitivityAnalysis","ControlSelectionBias","ControlMigrationBias","ControlSurvivalBias","UCDPConflictCleavage","yi","vi"
+"braithwaiteetal2019",0.237750037361314,0.0593873397646818,596,"lebanon","2017","N","Y","N","N","N","N","o",6.5,"Inidividual","Syrian Civil War",1,1,"1","0","2",0.237750037361314,0.00149604188935863
+"braithwaiteetal2019",0.0582088558346091,0.0219533223504601,2306,"lebanon","2017","N","Y","N","N","N","N","s",6.5,"Inidividual","Syrian Civil War",1,1,"1","0","2",0.0582088558346091,0.000430904528670077
+"dimanmiodownik2023",0.125616872207336,0.0277873423456839,1288,"palestine","2001","N","N","Y","N","N","N","o",52.5,"Village","Israel-Palestine conflict",1,1,"0","0","1",0.125616872207336,0.000752672726157838
+"grossmanetal2015",0.0690905233050677,0.0616148583063427,2334,"israel","2013","N","N","Y","N","N","N","o",10.5,"Individual","Israel-Palestine conflict",1,1,"0","0","1",0.0690905233050677,0.000424550272389641
+"kupatadzezeitzoff2021",0.0870142909320192,0.0367656741041409,818,"georgia","2015","N","N","N","N","N","Y","s",7,"Individual","Russo-Georgian War",1,1,"1","0","1",0.0870142909320192,0.00120552552479799
+"lupupeisakhin2017",0.0853237458584191,0.0412303935279295,951,"ukraine","2014","N","N","N","N","Y","N","s",70,"Individual","Exile of Crimean Tartars",1,1,"1","1","1",0.0853237458584191,0.00103736075499705
+"rozenaszhukov2019",0.00637337838952397,0.0380364156050796,828,"ukraine","2017","N","N","Y","N","N","N","s",1.5,"District","Holodomor",1,1,"0","0","",0.00637337838952397,0.00120909161033348

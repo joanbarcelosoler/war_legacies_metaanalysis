@@ -1,0 +1,6 @@
+"authoryear","coef","se","n","country","year","did_design","uesd_design","iv_design","rd_design","random_design","exptype","exptype2","ExposureLagMean","UnitAnalysis","ConflictStudy","SensitivityAnalysis","ControlSelectionBias","ControlMigrationBias","ControlSurvivalBias","UCDPConflictCleavage","yi","vi"
+"barcelopeisakhin2023",0.0945943653148082,0.0341469119827932,845,"spain","2022","N","N","N","Y","N","N","o",83.5,"Individual and Community","Spanish Civil War",1,1,"0","0","",0.0945943653148082,0.00116372497687998
+"hadzicetal2017",0.206638237910027,0.074798180831068,214,"bosnia","2006","Y","N","N","N","N","N","o",12.5,"Municipality and Individual","Yugoslavian Wars",1,1,"1","1","1",0.206638237910027,0.00430246250107038
+"hadzicetal2017",0.136109800977417,0.0733968521507735,214,"bosnia","2010","Y","N","N","N","N","N","o",16.5,"Municipality and Individual","Yugoslavian Wars",1,1,"1","1","1",0.136109800977417,0.00452249508126085
+"hadzicetal2017",0.0273365493252206,0.0710206230254677,214,"bosnia","2014","Y","N","N","N","N","N","o",20.5,"Municipality and Individual","Yugoslavian Wars",1,1,"1","1","1",0.0273365493252206,0.00468782152384851
+"lupupeisakhin2017",0.186945441651618,0.0519290261990421,724,"ukraine","2014","N","N","N","N","Y","N","s",70,"Individual","Exile of Crimean Tartars",1,1,"1","1","1",0.186945441651618,0.00128813860055922

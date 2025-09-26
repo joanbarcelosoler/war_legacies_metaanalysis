@@ -1,0 +1,2 @@
+"authoryear","coef","se","n","country","year","did_design","uesd_design","iv_design","rd_design","random_design","exptype","exptype2","ExposureLagMean","UnitAnalysis","ConflictStudy","SensitivityAnalysis","ControlSelectionBias","ControlMigrationBias","ControlSurvivalBias","UCDPConflictCleavage","yi","vi"
+"blattman2009",0.0123829318960371,0.0662986710537842,736,"uganda","2005","N","N","N","N","Y","N","s",9.5,"Individual","Lord’s Resistance Army (LRA) insurgency",1,1,"1","1","2",0.0123829318960371,0.00136012700613272

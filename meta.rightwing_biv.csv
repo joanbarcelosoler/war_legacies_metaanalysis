@@ -1,0 +1,83 @@
+"authoryear","coef","se","n","outcome","country","year","did_design","uesd_design","iv_design","rd_design","random_design","exptype","exptype2","ExposureLagMean","UnitAnalysis","yi","vi"
+"aaskoven2022",0.0600046047275291,0.0426431833444172,1047,"rightwing_ideology","denmark","1972","N","N","N","N","N","N","s",29.5,"Municipality, Individual",0.0600046047275291,0.000949150916636643
+"acemogluetal2022",-0.095409204068553,0.0626804599019112,5775,"rightwing_ideology","italy","1919","N","N","Y","N","N","N","s",2.5,"Municipality",-0.095409204068553,0.000170051442785199
+"acemogluetal2022",0.0295918004539858,0.0236559467722118,5358,"rightwing_ideology","italy","1921","N","N","Y","N","N","N","s",4.5,"Municipality",0.0295918004539858,0.00018634486046255
+"acemogluetal2022",0.0503783691682595,0.0346235674053431,5775,"rightwing_ideology","italy","1924","N","N","Y","N","N","N","s",7.5,"Municipality",0.0503783691682595,0.000172312172009487
+"balcells2012",-0.156301503323076,0.0218786202887038,2435,"rightwing_ideology","spain","2008","N","N","N","N","N","N","s",70.5,"Individual",-0.156301503323076,0.00039101746624184
+"barcelopeisakhin2023",-0.0341297129523925,0.0302727098713866,1096,"rightwing_ideology","spain","2022","N","N","N","Y","N","N","s",83.5,"Individual and Community",-0.0341297129523925,0.000911115691537465
+"barcelopeisakhin2023",-0.0871215601407093,0.0338803076588932,930,"rightwing_ideology","spain","2022","N","N","N","Y","N","N","s",83.5,"Individual and Community",-0.0871215601407093,0.00106014776979641
+"canavanturkoglu2022",-0.127826197267225,0.050832864688773,2592,"rightwing_ideology","turkey","2010","N","N","N","N","N","N","s",3.5,"Individual",-0.127826197267225,0.000373441878442388
+"canavanturkoglu2022",-0.0482600570185226,0.0664575213150572,2234,"rightwing_ideology","turkey","2011","N","N","N","N","N","N","s",0.5,"Individual",-0.0482600570185226,0.000445744450599344
+"canavanturkoglu2022",-0.150564340883997,0.0667811406073583,2516,"rightwing_ideology","turkey","2012","N","N","N","N","N","N","s",1,"Individual",-0.150564340883997,0.000379791121357095
+"canavanturkoglu2022",-0.201265593439497,0.0495281654920967,1659,"rightwing_ideology","turkey","2013","N","N","N","N","N","N","s",1.5,"Individual",-0.201265593439497,0.000555262489037185
+"canavanturkoglu2022",-0.197263304812372,0.0391669307448909,3189,"rightwing_ideology","turkey","2014","N","N","N","N","N","N","s",2,"Individual",-0.197263304812372,0.000289739204530125
+"canavanturkoglu2022",-0.2017516806956,0.0548942394261955,4990,"rightwing_ideology","turkey","2015","N","N","N","N","N","N","s",2.5,"Individual",-0.2017516806956,0.000184455665098618
+"canavanturkoglu2022",-0.169458121905361,0.0567410275591249,1587,"rightwing_ideology","turkey","2016","N","N","N","N","N","N","s",3,"Individual",-0.169458121905361,0.000594825032572481
+"canavanturkoglu2022",-0.107676727572111,0.0423089267726414,2552,"rightwing_ideology","turkey","2017","N","N","N","N","N","N","s",3.5,"Individual",-0.107676727572111,0.000382965845532417
+"canettietal2017",0.344305768385788,0.0197923905493423,2049,"rightwing_ideology","israel","2008","N","N","N","N","N","N","s",0.5,"Individual",0.344305768385788,0.000379375165722333
+"costalliruggeri2015",-0.23335091546392,0.0408377599381557,556,"rightwing_ideology","italy","1946","N","N","N","N","N","N","s",2,"Grid of squared cells with sides 25 km",-0.23335091546392,0.00161091854336732
+"costalliruggeri2019",-0.191422861732928,0.0489669423873451,540,"rightwing_ideology","italy","1946","N","N","N","N","N","N","s",2,"Province",-0.191422861732928,0.00172181310640859
+"costalliruggeri2019",-0.191422861732926,0.0379014614188372,900,"rightwing_ideology","italy","1955","N","N","N","N","N","N","s",11,"Province",-0.191422861732926,0.00103232176235176
+"costalliruggeri2019",-0.191422861732928,0.0423869241012256,720,"rightwing_ideology","italy","1965","N","N","N","N","N","N","s",21,"Province",-0.191422861732928,0.00129076114652883
+"davalosetal2018",-0.0837543153096607,0.0390843649382678,666,"rightwing_ideology","colombia","2016","N","N","N","N","N","N","s",10.5,"Municipality",-0.0837543153096607,0.00148273629555983
+"dejuanetal2024",0.148379924468596,0.0274236553682146,4047,"rightwing_ideology","germany","1925","N","N","N","N","N","N","s",9,"County",0.148379924468596,0.000236394346710916
+"dejuanetal2024",0.165983099302114,0.0255577944104651,3818,"rightwing_ideology","germany","1933","N","N","N","N","N","N","s",17,"County",0.165983099302114,0.000247749081854905
+"dellavignaetal2014",0.098132272430728,0.0359898297941984,953,"rightwing_ideology","croatia","2010","N","N","N","N","N","N","s",17,"Village",0.098132272430728,0.0010302866071589
+"dinasetal2021a",-0.0539692975107611,0.0205058812469434,2343,"rightwing_ideology","germany","2018","N","N","N","N","N","N","s",71.5,"Individual",-0.0539692975107611,0.000424501756441814
+"eladstrengeretal2021",0.039691597394914,0.033605095252393,965,"rightwing_ideology","israel","2007","N","N","N","N","N","N","s",0.5,"Individual",0.039691597394914,0.00103407846073631
+"esparzaetal2020",0.135610038264958,0.032411017671953,1473,"rightwing_ideology","colombia","2016","N","N","N","N","N","N","s",2,"individual",0.135610038264958,0.000654591053109449
+"esparzaetal2020",0.0487802577067701,0.0284876036840796,1469,"rightwing_ideology","colombia","2016","N","N","N","N","N","N","s",2,"individual",0.0487802577067701,0.000677960923025081
+"fontanaetal2023",-0.0812744528015783,0.0120838653365483,5199,"rightwing_ideology","italy","1948","N","N","N","Y","N","N","s",4,"Municipality",-0.0812744528015783,0.00018984851091928
+"fontanaetal2023",-0.0886330227336729,0.0124305956258189,5698,"rightwing_ideology","italy","1958","N","N","N","Y","N","N","s",14,"Municipality",-0.0886330227336729,0.000172783936871276
+"fontanaetal2023",-0.059759049641044,0.011655452811443,5697,"rightwing_ideology","italy","1968","N","N","N","Y","N","N","s",24,"Municipality",-0.059759049641044,0.000174310123778365
+"fontanaetal2023",-0.0566474221089828,0.0123254864357732,5698,"rightwing_ideology","italy","1976","N","N","N","Y","N","N","s",32,"Municipality",-0.0566474221089828,0.000174406255287226
+"fontanaetal2023",-0.0115127269069188,0.0126083977131716,5698,"rightwing_ideology","italy","1987","N","N","N","Y","N","N","s",43,"Municipality",-0.0115127269069188,0.000175484453537993
+"getmanskyweiss2023a",0.760013387073631,0.048225259631736,157,"rightwing_ideology","israel","1973","Y","Y","N","N","N","N","s",0.0415,"Inividual and Locality",0.760013387073631,0.00114361903830104
+"getmanskyweiss2023a",0.949332925322739,0.0628512778801619,157,"rightwing_ideology","israel","1977","Y","Y","N","N","N","N","s",4,"Inividual and Locality",0.949332925322739,0.0000625315363864323
+"getmanskyweiss2023b",-0.0337830321064793,0.0137719131524713,5501,"rightwing_ideology","israel","1986","N","N","N","Y","N","N","s",13,"Individual",-0.0337830321064793,0.000181403402915216
+"getmanskyweiss2023b",-0.0589542358260545,0.0195607676369386,3050,"rightwing_ideology","israel","1996","N","N","N","Y","N","N","s",23,"Individual",-0.0589542358260545,0.000325700516879321
+"getmanskyweiss2023b",-0.0285142163052239,0.0178505234426553,3285,"rightwing_ideology","israel","2006","N","N","N","Y","N","N","s",33,"Individual",-0.0285142163052239,0.000304011735689533
+"getmanskyweiss2023b",-0.177675013944341,0.0190019213025001,3133,"rightwing_ideology","israel","2015","N","N","N","Y","N","N","s",42,"Individual",-0.177675013944341,0.000299444362511594
+"glaurdicvukovic2016",0.344362336251702,0.0345611841101482,546,"rightwing_ideology","croatia","2003","N","N","N","N","N","N","s",10,"Municipality",0.344362336251702,0.00142548929220897
+"glaurdicvukovic2016",0.398773465854416,0.0388773968256478,546,"rightwing_ideology","croatia","2007","N","N","N","N","N","N","s",14,"Municipality",0.398773465854416,0.00129770072363337
+"glaurdicvukovic2016",0.475634154256715,0.0610566266337973,546,"rightwing_ideology","croatia","2011","N","N","N","N","N","N","s",18,"Municipality",0.475634154256715,0.00109857493969613
+"glaurdicvukovic2016",0.483408150427111,0.0463352073222814,546,"rightwing_ideology","croatia","2015","N","N","N","N","N","N","s",22,"Municipality",0.483408150427111,0.00107750655098069
+"grossmanetal2015",-0.0703126017504891,0.0206566322795705,2334,"rightwing_ideology","israel","2013","N","N","Y","N","N","N","s",10.5,"Individual",-0.0703126017504891,0.000424404936922967
+"gursesetal2020",-0.00000000000000015563494408594,0.000000000000000142548061678911,3915,"rightwing_ideology","turkey","2010","N","N","N","N","N","N","s",3.5,"Individual",-0.00000000000000015563494408594,0.000255493101686254
+"kim2023",-0.0267681381988179,0.0146194418644415,4814,"rightwing_ideology","southkorea","2009","N","N","N","N","N","N","s",57.5,"Individual",-0.0267681381988179,0.000207472978802119
+"kim2023",-0.0404334637489528,0.00988703744441893,9599,"rightwing_ideology","southkorea","2015","N","N","N","N","N","N","s",63.5,"Individual",-0.0404334637489528,0.000103847983205049
+"krakowski2020",0.0622317703784619,0.0272050058727837,1243,"rightwing_ideology","colombia","2013","N","N","N","N","N","N","s",6,"Individual",0.0622317703784619,0.000798928673139001
+"liendobraithwaite2018",0.054965906011572,0.0297263002963503,1136,"rightwing_ideology","colombia","2014","N","N","N","N","N","N","s",7,"Individual",0.054965906011572,0.000875741520977263
+"liendobraithwaite2018",0.0260747666722347,0.0301868809527471,1136,"rightwing_ideology","colombia","2014","N","N","N","N","N","N","s",7,"Individual",0.0260747666722347,0.000879859625851181
+"meernik2020",-0.00835112540112696,0.0301515588941591,1542,"rightwing_ideology","colombia","2016","N","N","N","N","N","N","s",26,"Individual",-0.00835112540112696,0.000648838755530771
+"meernik2020",0.0447227808465651,0.0258236666233126,1538,"rightwing_ideology","colombia","2016","N","N","N","N","N","N","s",26,"Individual",0.0447227808465651,0.0006480180522155
+"merilainenmitrunen2023",0.0127834615367435,0.0575027047246976,411,"rightwing_ideology","finland","1919","Y","N","N","N","N","N","s",1,"Municipality",0.0127834615367435,0.00243822729982282
+"merilainenmitrunen2023",-0.0306227230599455,0.0538354939255293,410,"rightwing_ideology","finland","1922","Y","N","N","N","N","N","s",4,"Municipality",-0.0306227230599455,0.00244040434484606
+"merilainenmitrunen2023",-0.0551045903389333,0.0511557535027154,408,"rightwing_ideology","finland","1924","Y","N","N","N","N","N","s",6,"Municipality",-0.0551045903389333,0.00244210365768016
+"merilainenmitrunen2023",-0.042295286945816,0.0518533759347854,406,"rightwing_ideology","finland","1927","Y","N","N","N","N","N","s",9,"Municipality",-0.042295286945816,0.00246030967292943
+"merilainenmitrunen2023",-0.00893557899208315,0.0505911694829504,406,"rightwing_ideology","finland","1929","Y","N","N","N","N","N","s",11,"Municipality",-0.00893557899208315,0.00246874152402792
+"merilainenmitrunen2023",-0.0268237223249348,0.0496288936317734,407,"rightwing_ideology","finland","1930","Y","N","N","N","N","N","s",12,"Municipality",-0.0268237223249348,0.00245951106782981
+"merilainenmitrunen2023",-0.0395275817679065,0.0473661007862132,405,"rightwing_ideology","finland","1933","Y","N","N","N","N","N","s",15,"Municipality",-0.0395275817679065,0.00246751876669751
+"merilainenmitrunen2023",-0.0312068312770996,0.046526810663723,405,"rightwing_ideology","finland","1936","Y","N","N","N","N","N","s",18,"Municipality",-0.0312068312770996,0.00247042875192795
+"ochsnerroesel2017",-0.0996413326390596,0.0714879203360466,151,"rightwing_ideology","austria","2006","N","N","N","Y","N","N","s",400,"Municipality",-0.0996413326390596,0.00653494521793652
+"ochsnerroesel2017",-0.072007945611894,0.0612432617098041,151,"rightwing_ideology","austria","2008","N","N","N","Y","N","N","s",402,"Municipality",-0.072007945611894,0.00659771064838805
+"ochsnerroesel2017",-0.106906595881873,0.055843600354944,151,"rightwing_ideology","austria","2013","N","N","N","Y","N","N","s",407,"Municipality",-0.106906595881873,0.00651515054678411
+"pechenkinaetal2019",-0.042834194298508,0.0163528970892357,2022,"rightwing_ideology","ukraine","2015","N","N","N","N","N","N","s",0.5,"Individual",-0.042834194298508,0.000492990514582854
+"pechenkinagamboa2019",-0.158721065053095,0.0487742390934494,1052,"rightwing_ideology","colombia","2016","N","N","N","N","N","N","s",2.5,"Municipality",-0.158721065053095,0.000904138822883079
+"rodontormos2023",0.00531816216906528,0.0159134233466122,7660,"rightwing_ideology","spain","1995","N","N","N","N","N","N","s",49.5,"Individual",0.00531816216906528,0.00013055796254109
+"rodontormos2023",0.0130640002027971,0.0142805828483552,7729,"rightwing_ideology","spain","2005","N","N","N","N","N","N","s",59.5,"Individual",0.0130640002027971,0.000129355420927148
+"rodontormos2023",-0.012936025837554,0.0223265295910831,3991,"rightwing_ideology","spain","2015","N","N","N","N","N","N","s",69.5,"Individual",-0.012936025837554,0.000250542693351878
+"rozenaszhukov2019",0.0465826603619684,0.0366105745242264,679,"rightwing_ideology","ukraine","2017","N","N","Y","N","N","N","s",1.5,"District",0.0465826603619684,0.00146853218313457
+"shai2021",0.145418168275506,0.0559240215850717,1941,"rightwing_ideology","israel","2015","Y","N","N","N","N","N","s",0.5,"Individual",0.145418168275506,0.000493893961211574
+"tellez2019",0.0250403587014788,0.0240707842430835,5462,"rightwing_ideology","colombia","2015","N","N","N","N","N","N","s",26,"Individual (with clustering at the municipality level)",0.0250403587014788,0.000182887081857853
+"tellez2019",0.00772281560066371,0.0143739385968324,5462,"rightwing_ideology","colombia","2015","N","N","N","N","N","N","s",26,"Individual (with clustering at the municipality level)",0.00772281560066371,0.000183094803112168
+"villamil2020",-0.15213084609062,0.0152714014188139,4190,"rightwing_ideology","spain","1978","Y","N","N","N","N","N","s",39,"Municipality",-0.15213084609062,0.000227798531045977
+"villamil2020",-0.221391803704802,0.0152238566797599,4163,"rightwing_ideology","spain","1986","Y","N","N","N","N","N","s",47,"Municipality",-0.221391803704802,0.000217293066584169
+"villamil2020",-0.201316386351039,0.0153370657615856,4192,"rightwing_ideology","spain","1994","Y","N","N","N","N","N","s",55,"Municipality",-0.201316386351039,0.000219657830411306
+"villamil2020",-0.156504928394683,0.0155763003578397,4192,"rightwing_ideology","spain","2004","Y","N","N","N","N","N","s",65,"Municipality",-0.156504928394683,0.000227060930721274
+"villamil2020",-0.108938247666277,0.0156110683005621,4192,"rightwing_ideology","spain","2014","Y","N","N","N","N","N","s",75,"Municipality",-0.108938247666277,0.000232976796692743
+"villamil2022",-0.235083988597437,0.058719342646966,325,"rightwing_ideology","guatemala","1999","N","N","N","N","N","N","s",17.5,"Municipality",-0.235083988597437,0.00275470740601001
+"villamil2022",0.0831486406016573,0.0331022927609902,318,"rightwing_ideology","guatemala","2003","N","N","N","N","N","N","s",21.5,"Municipality",0.0831486406016573,0.00311110538274629
+"villamil2022",0.062850408678876,0.0250609812875733,323,"rightwing_ideology","guatemala","2007","N","N","N","N","N","N","s",25.5,"Municipality",0.062850408678876,0.00308110327991121
+"villamil2022",-0.0295519230803832,0.0091392386787558,315,"rightwing_ideology","guatemala","2015","N","N","N","N","N","N","s",33.5,"Municipality",-0.0295519230803832,0.00317915328141915
+"waynezhukov2022",-0.153568930228094,0.0272222246510694,1475,"rightwing_ideology","unitedstates","2017","N","N","N","N","N","N","s",74,"Individual",-0.153568930228094,0.000646804168835182

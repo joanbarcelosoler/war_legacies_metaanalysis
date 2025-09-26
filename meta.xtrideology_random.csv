@@ -1,0 +1,8 @@
+"authoryear","coef","se","n","country","year","did_design","uesd_design","iv_design","rd_design","random_design","exptype","exptype2","ExposureLagMean","UnitAnalysis","ConflictStudy","SensitivityAnalysis","ControlSelectionBias","ControlMigrationBias","ControlSurvivalBias","UCDPConflictCleavage","yi","vi"
+"barcelopeisakhin2023",-0.0379033266022484,0.0333626372928142,903,"spain","2022","N","N","N","Y","N","N","o",83.5,"Individual and Community","Spanish Civil War",1,1,"0","0","",-0.0379033266022484,0.00110546423465981
+"grossmanetal2015",-0.0278004203296307,0.0616880938726768,2334,"israel","2013","N","N","Y","N","N","N","o",10.5,"Individual","Israel-Palestine conflict",1,1,"0","0","1",-0.0278004203296307,0.000427970368871316
+"ochsnerroesel2017",-0.177687613169458,0.0756453967563865,151,"austria","2006","N","N","N","Y","N","N","o",400,"Municipality","Turkish sieges of Vienna",1,1,"1","1","",-0.177687613169458,0.00625234047667318
+"ochsnerroesel2017",-0.0391578701602493,0.144581746380124,151,"austria","2008","N","N","N","Y","N","N","o",402,"Municipality","Turkish sieges of Vienna",1,1,"1","1","",-0.0391578701602493,0.00664623782357925
+"ochsnerroesel2017",0.0805750396327144,0.138867746174056,151,"austria","2013","N","N","N","Y","N","N","o",407,"Municipality","Turkish sieges of Vienna",1,1,"1","1","",0.0805750396327144,0.00658038317610832
+"rozenaszhukov2019",0.06348490623261,0.0446514035379738,685,"ukraine","2017","N","N","Y","N","N","N","s",1.5,"District","Holodomor",1,1,"0","0","",0.06348490623261,0.00145022745167827
+"shai2021",-0.35889148012133,0.0139946526698839,4511,"israel","2015","Y","N","N","N","N","N","o",0.5,"Individual","Israel-Palestine conflict",1,1,"0","0","1",-0.35889148012133,0.000168289145930458
