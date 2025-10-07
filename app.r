@@ -27,23 +27,7 @@ metadata <- read_csv("metadata.csv")
 
 reports <- read_csv("reports.csv")
 
-metadata <- metadata %>% rename("Author_yr" = "authoryear")
 
-metadata <- left_join(metadata, reports, by = "Author_yr")
-
-file.attributes <- haven::read_dta("updated.attributes.review.dta") %>%
-  select(Author_yr, ExposureLagMean) %>%
-  distinct(Author_yr, .keep_all = TRUE) %>%
-  mutate(
-    ExposureLag = case_when(
-      ExposureLagMean <= 5 ~ "Upto 5 years",
-      ExposureLagMean > 5 & ExposureLagMean <= 20 ~ "More than 5 years and upto 20 years",
-      ExposureLagMean > 20 ~ "More than 20 years",
-      TRUE ~ NA_character_  
-    )
-  )
-
-metadata <- left_join(metadata, file.attributes, by = "Author_yr")
 
 ## ... Setting up the User Interface object
 
@@ -238,7 +222,7 @@ server <- function(input, output, session) {
     reports %>%
       filter(Author_yr %in% currentData()$Author_yr) %>%
       arrange(Author_yr) %>%
-      select(Authors, Year, Publication, Manuscript.Title, Conflict, Country, Study.ID)
+      dplyr::select(Authors, Year, Publication, Manuscript.Title, Conflict, Country, Study.ID)
   })
 
   output$metaplot <- renderPlot({
